@@ -364,9 +364,9 @@ Also affects 'linum-mode' background."
                                      :background ,terminal-darkokai-bg))))
 
    `(highlight
-     ((,class (:foreground ,darkokai-bg
+     ((,class (
                            :background ,darkokai-highlight))
-      (,terminal-class (:foreground ,terminal-darkokai-bg
+      (,terminal-class (
                                     :background ,terminal-darkokai-highlight))))
 
    `(lazy-highlight
