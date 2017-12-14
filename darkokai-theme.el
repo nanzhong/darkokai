@@ -135,8 +135,8 @@ Also affects 'linum-mode' background."
           ;; Adaptive colors
           (darkokai-fg               "#f8fbfc")
           (darkokai-bg               "#242728")
-          (darkokai-highlight-line   "#424748")
-          (darkokai-highlight        "#5D6365")
+          (darkokai-highlight-line   "#313435")
+          (darkokai-highlight        "#424748")
           (darkokai-emph             "#ffffff")
           (darkokai-comments         "#6A6D70")
           ;; Adaptive higher/lower contrast accented colors
@@ -221,8 +221,8 @@ Also affects 'linum-mode' background."
           ;; Adaptive colors
           (terminal-darkokai-fg               "#F5F5F5")
           (terminal-darkokai-bg               "#1B1E1C")
-          (terminal-darkokai-highlight-line   "#474747")
-          (terminal-darkokai-highlight        "#F4A460")
+          (terminal-darkokai-highlight-line   "#303030")
+          (terminal-darkokai-highlight        "#444444")
           (terminal-darkokai-emph             "#FFFAFA")
           (terminal-darkokai-comments         "#8B8878")
           ;; Adaptive higher/lower contrast accented colors
